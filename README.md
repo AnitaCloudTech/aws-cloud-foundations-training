@@ -76,9 +76,9 @@ This repository serves as a portfolio of my foundational AWS cloud skills, showc
    git clone https://github.com/AnitaCloudTech/aws-cloud-foundations-training.git
    cd aws-cloud-foundations-training
   ```
-
+```
 ## Connect
-
+```
 
 ```
 If you're interested in my work or want to collaborate on cloud or DevOps projects, feel free to reach out via  
@@ -86,16 +86,16 @@ If you're interested in my work or want to collaborate on cloud or DevOps projec
 or explore my other repositories.
 ```
 
-
+```
 ## License
-
+```
 
 ```
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
 ```
-
+```
 © 2025 Anita Mijatović
-
+```
 ---
 
