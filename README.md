@@ -89,7 +89,7 @@ or explore my other repositories.
 ## License
 
 This project is licensed under the MIT License.
- See the [LICENSE](./LICENSE) file for details.
+ See the [LICENSE](https://github.com/AnitaCloudTech/aws-cloud-foundations-training/blob/main/LICENSE)file for details.
 
 ---
 
