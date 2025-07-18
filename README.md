@@ -78,7 +78,7 @@ This repository serves as a portfolio of my foundational AWS cloud skills, showc
   ```
 ---
 
-##📫 **Connect**
+## 📫 **Connect**
 
 ---
 
@@ -89,15 +89,13 @@ or explore my other repositories.
 ```
 ---
 
-##License
+## License
 
----
 
 ```
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
 ```
----
 
 © 2025 Anita Mijatović
 
