@@ -79,13 +79,11 @@ This repository serves as a portfolio of my foundational AWS cloud skills, showc
 ```
 ## Connect
 ```
-
 ```
 If you're interested in my work or want to collaborate on cloud or DevOps projects, feel free to reach out via  
 [LinkedIn](https://www.linkedin.com/in/anita-mijatović-285a72283)  
 or explore my other repositories.
 ```
-
 ```
 ## License
 ```
@@ -93,7 +91,6 @@ or explore my other repositories.
 ```
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
-```
 ```
 © 2025 Anita Mijatović
 ```
