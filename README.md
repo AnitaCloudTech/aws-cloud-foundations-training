@@ -97,5 +97,4 @@ See the [LICENSE](./LICENSE) file for details.
 ```
 © 2025 Anita Mijatović
 ```
----
 
