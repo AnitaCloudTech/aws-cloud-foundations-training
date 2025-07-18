@@ -76,22 +76,36 @@ This repository serves as a portfolio of my foundational AWS cloud skills, showc
    git clone https://github.com/AnitaCloudTech/aws-cloud-foundations-training.git
    cd aws-cloud-foundations-training
   ```
-```
+
 ## Connect
-```
+
 ```
 If you're interested in my work or want to collaborate on cloud or DevOps projects, feel free to reach out via  
 [LinkedIn](https://www.linkedin.com/in/anita-mijatović-285a72283)  
 or explore my other repositories.
 ```
-```
+## ❓ FAQ (Frequently Asked Questions)
+
+**Q: Do I need an AWS account to follow these modules?**  
+A: While the modules simulate AWS environments, having an AWS account is recommended for hands-on practice.
+
+**Q: Can I contribute to this repository?**  
+A: Absolutely! Feel free to fork, make improvements, and submit pull requests.
+
+**Q: Are the solutions here official AWS content?**  
+A: No, these are my personal notes and solutions based on AWS SimuLearn training.
+
+**Q: What skills will I gain by studying this repository?**  
+A: You'll get practical knowledge of AWS services like EC2, S3, DynamoDB, IAM, VPC, Auto Scaling, and more.
+
+
 ## License
-```
 
 ```
 This project is licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
 ```
+
 © 2025 Anita Mijatović
-```
+
 
